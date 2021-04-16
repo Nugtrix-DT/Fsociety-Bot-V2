@@ -10,8 +10,10 @@ COMANDOS PARA EJECUTAR:
 6) bash install.sh
 
 PARA INICIAR EL BOT:
+
 7) npm start
 
 COMANDO PARA EL BOT:
+
 Para ejecutarlo ocupa ( !menu )
 
