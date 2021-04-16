@@ -1,6 +1,6 @@
 const databases = (prefix) => {
 
-return `┏━━•°•❈💥𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛𝚊𝚟𝚊💥•°•━┓
+return `┏━━•°•❈💥DATOS BASE PARA TRAVAS💥•°•━┓
 ║
 ║ ❁❧ ⏤͟͟͞͞𝘿𝘽 𝘿𝙍𝘼𝙂𝙊𝙉 𝙑❷🐉:
 ║ 🌐https://suaurl.com/9c59ae 🌐
@@ -20,7 +20,7 @@ return `┏━━•°•❈💥𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚍𝚎 𝚝�
 exports.databases = databases
 
 const imune = (prefix) => {
-return `┏━━•❅•°•❈🌀𝚠𝚙𝚙 𝚒𝚖𝚞𝚗𝚎𝚜🌀•°•❅•━━┓
+return `┏━━•❅•°•❈🌀WHATSAPP INMUNES🌀•°•❅•━━┓
 ║ ❁❧ ↯𝐈𝐌𝚯𝐑𝐓∆𝐋⛧𝐗𝐗𝐕𝐈ᬏ᭄: 
 ║ 🌐https://suaurl.com/9332c7 🌐
 ║
