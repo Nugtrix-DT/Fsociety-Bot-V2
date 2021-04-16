@@ -238,7 +238,6 @@ return `┏━ ʄʂơƈıɛɬყ ცơɬ ۷2 ━┓
 ┋↝➤ *${p}realhoje*
 ┋↝➤ *${p}cvoin* ❮c1❯|❮c2❯
 ┋↝➤ *${p}ccoin* ❮c1❯|❮c2❯|❮num❯`
-╚══════ ▓▓ ࿇ ▓▓ ═══════╝
 }
 
 exports.help = help
